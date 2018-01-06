@@ -30,7 +30,7 @@ li {
 
 a {
 	text-decoration: none;
-	color: green;
+	color: grey;
 }
 
 .nav {
@@ -67,4 +67,12 @@ a {
 	}
 }
 
-
+footer {
+	background-color: pink;
+	width: 100%;
+	text-align: center;
+	p {
+		padding: 2em 2em 1em 2em;
+		margin: 5em 0 0 0;
+	}
+}
